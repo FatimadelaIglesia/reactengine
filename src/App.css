@@ -1,0 +1,28 @@
+body {
+  background-color: #96cdd7;
+  font-family: "Barlow", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: red;
+}
+
+.search-bar {
+  background-color: #d0e0ee;
+  border: none;
+  border-radius: 8px;
+  font-size: 18px;
+  padding: 18px;
+  width: 70%;
+  color: blue;
+}
+
+.search-button {
+  background-color: #0458ce;
+  font-size: 16px;
+  padding: 20px 30px;
+  margin-left: 20px;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  transition: 200ms ease-in-out;
+}
